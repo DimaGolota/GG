@@ -1,2 +1,1 @@
-ada
-a
+https://github.com/DimaGolota/GG.git
